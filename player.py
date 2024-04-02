@@ -3,7 +3,7 @@ from bullet import Bullet
 
 class Player(GameSprite):
     '''
-    Класс спрайта игрока
+    Класс спрайта игрока !!!
     '''
     bullets = sprite.Group()
     # Время последнего выстрела
